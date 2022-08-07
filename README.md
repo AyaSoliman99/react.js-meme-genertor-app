@@ -1,3 +1,6 @@
+This is a project about creating meme generator with react and api() ,I have learned about useState and useEffect and use it in calling api.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
